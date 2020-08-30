@@ -1,0 +1,7 @@
+{
+ "uuid": "window-list-vertical-labels@cinnamon.org",
+ "name": "Window list vertical labels",
+ "description": "Cinnamon window list with vertical labels",
+ "icon": "gnome-window-manager",
+ "max-instances": -1
+}
